@@ -32,7 +32,7 @@
                     android:id="@+id/s_name_data"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Steven Clarke" />
+                    android:text="Goh Wong Wei" />
             </TableRow>
 
             <TableRow
@@ -70,7 +70,7 @@
                     android:id="@+id/s_nation_data"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Australian" />
+                    android:text="Myanmar" />
             </TableRow>
 
             <TableRow
@@ -129,7 +129,7 @@
                     android:id="@+id/s_id_data"
                     android:layout_width="80dp"
                     android:layout_height="wrap_content"
-                    android:text="PE123456789" />
+                    android:text="N/A" />
             </TableRow>
 
             <TableRow
@@ -142,19 +142,6 @@
                     android:layout_height="wrap_content"
                     android:text="ID photo:" />
 
-                <ImageView
-                    android:id="@+id/s_id_photo_data"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginBottom="10dp"
-                    android:adjustViewBounds="true"
-                    android:clickable="true"
-                    android:contentDescription="ID Photo"
-                    android:focusable="true"
-                    android:maxWidth="200dp"
-                    android:maxHeight="200dp"
-                    android:src="@drawable/un_id_pic" />
             </TableRow>
 
             <TableRow
